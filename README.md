@@ -1,6 +1,7 @@
 <img src="/assets/images/RJL-Profile-picture.jpg" style="margin: 0;">
 
 # [My first ajax xhr api call example](https://tubaman48.github.io/my-ajax-test)
+This replicates the detailed formatting of the Star Wars data into more readable tabular format, with a crude truncation limiting the display to a maximum of 15 characters per field.
 
 ### Technologies Used
 
@@ -27,7 +28,9 @@
 ### Version history:
 
 > **15th January 2021:** 
-> - Adapted from CI LMS https://github.com/Code-Institute-Solutions/WorkingWithExternalResources/tree/master/02-ConsumingAPIsUsingJavaScript/01-xhr.
+> - Adapted initially    from CI LMS https://github.com/Code-Institute-Solutions/WorkingWithExternalResources/tree/master/02-ConsumingAPIsUsingJavaScript/01-xhr.
+> - Subsequently adapted from CI LMS https://github.com/Code-Institute-Solutions/WorkingWithExternalResources/tree/master/03-DataAndTheDOM/07-tying_up_loose_ends/
+> - Sample api referenced at https://ci-swapi.herokuapp.com/api/
 > - style.css file set up under /assets/css directory.
 > - main.js file set up under /assets/js directory.
 --------
